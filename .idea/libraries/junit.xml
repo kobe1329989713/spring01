@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit">
+    <CLASSES>
+      <root url="file://F:/jar/junit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://F:/jar/junit" recursive="false" />
+  </library>
+</component>
